@@ -10,10 +10,10 @@
     <id>com.richardgrey.co.uk</id>
     <name>National Museum of Wales</name>
     <version>1.0</version>
-    <publisher>richardgrey</publisher>
+    <publisher>Richard Grey</publisher>
     <url>http://www.richardgrey.co.uk</url>
     <description>not specified</description>
-    <copyright>2011 by richardgrey</copyright>
+    <copyright>2011, Richard Grey</copyright>
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
